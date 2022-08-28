@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mullynation
-- 👀 I’m interested in Data Analysid
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on databases
 - 📫 How to reach me richard.m.hyatt@gmail.com
